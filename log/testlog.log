@@ -1,0 +1,201 @@
+2020-08-17 11:25:06,529 - ebankingTest -INFO - URL is opened
+2020-08-17 11:25:06,768 - ebankingTest -INFO - Enter Username
+2020-08-17 11:25:06,910 - ebankingTest -INFO - Enter Password
+2020-08-17 11:25:08,904 - ebankingTest -INFO - Login test passed
+2020-08-17 11:26:20,961 - ebankingTest -INFO - URL is opened
+2020-08-17 11:26:21,223 - ebankingTest -INFO - Enter Username
+2020-08-17 11:26:21,360 - ebankingTest -INFO - Enter Password
+2020-08-17 11:26:23,289 - ebankingTest -INFO - Login test passed
+2020-08-17 12:28:11,770 - ebankingTest -INFO - URL is opened
+2020-08-17 12:28:12,109 - ebankingTest -INFO - Enter Username
+2020-08-17 12:28:12,340 - ebankingTest -INFO - Enter Password
+2020-08-17 12:28:13,990 - ebankingTest -INFO - Login test passed
+2020-08-17 12:56:19,610 - ebankingTest -INFO - URL is opened
+2020-08-17 12:56:19,894 - ebankingTest -INFO - Enter Username
+2020-08-17 12:56:20,031 - ebankingTest -INFO - Enter Password
+2020-08-17 12:56:21,718 - ebankingTest -INFO - Login test passed
+2020-08-17 13:00:49,097 - ebankingTest -INFO - URL is opened
+2020-08-17 13:03:55,199 - ebankingTest -INFO - URL is opened
+2020-08-17 13:04:33,371 - ebankingTest -INFO - URL is opened
+2020-08-17 13:04:33,779 - ebankingTest -INFO - Enter Username
+2020-08-17 13:04:34,453 - ebankingTest -INFO - Enter Password
+2020-08-17 13:04:36,468 - ebankingTest -INFO - Login test passed
+2020-08-17 14:36:40,633 - ebankingTest -INFO - URL is opened
+2020-08-17 14:36:40,951 - ebankingTest -INFO - Enter Username
+2020-08-17 14:36:41,151 - ebankingTest -INFO - Enter Password
+2020-08-17 14:36:43,290 - ebankingTest -INFO - Login test passed
+2020-08-17 14:51:47,362 - ebankingTest -INFO - URL is opened
+2020-08-17 14:51:47,813 - ebankingTest -INFO - Enter Username
+2020-08-17 14:51:48,241 - ebankingTest -INFO - Enter Password
+2020-08-17 16:00:20,159 - ebankingTest -INFO - user name is provided
+2020-08-17 16:00:25,975 - ebankingTest -INFO - Password is provided
+2020-08-17 16:00:36,050 - ebankingTest -INFO - Login passed
+2020-08-17 16:00:36,275 - ebankingTest -INFO - user name is provided
+2020-08-17 16:00:36,487 - ebankingTest -INFO - Password is provided
+2020-08-17 16:00:41,613 - ebankingTest -INFO - user name is provided
+2020-08-17 16:00:41,811 - ebankingTest -INFO - Password is provided
+2020-08-17 16:00:47,505 - ebankingTest -INFO - user name is provided
+2020-08-17 16:00:47,703 - ebankingTest -INFO - Password is provided
+2020-08-17 16:00:52,908 - ebankingTest -INFO - user name is provided
+2020-08-17 16:00:53,220 - ebankingTest -INFO - Password is provided
+2020-08-17 16:01:03,367 - ebankingTest -INFO - Login passed
+2020-08-17 16:33:39,094 - ebankingTest -INFO - User name is provided
+2020-08-17 16:33:39,404 - ebankingTest -INFO - Passsword is provided
+2020-08-17 16:56:32,660 - ebankingTest -INFO - User name is provided
+2020-08-17 16:56:32,809 - ebankingTest -INFO - Passsword is provided
+2020-08-17 17:16:11,114 - ebankingTest -INFO - Enter Username
+2020-08-17 17:16:11,298 - ebankingTest -INFO - Enter Password
+2020-08-17 17:17:43,116 - ebankingTest -INFO - Enter Username
+2020-08-17 17:17:43,272 - ebankingTest -INFO - Enter Password
+2020-08-17 17:17:45,117 - ebankingTest -INFO - Login test passed
+2020-08-17 17:19:04,600 - ebankingTest -INFO - Enter Username
+2020-08-17 17:19:04,764 - ebankingTest -INFO - Enter Password
+2020-08-17 17:19:06,676 - ebankingTest -INFO - Login test passed
+2020-08-17 17:24:38,030 - ebankingTest -INFO - Enter Username
+2020-08-17 17:24:38,171 - ebankingTest -INFO - Enter Password
+2020-08-17 17:24:39,934 - ebankingTest -INFO - Login test passed
+2020-08-17 17:26:09,525 - ebankingTest -INFO - Enter Username
+2020-08-17 17:26:09,692 - ebankingTest -INFO - Enter Password
+2020-08-17 17:26:11,239 - ebankingTest -INFO - Login test passed
+2020-08-17 17:26:19,861 - ebankingTest -INFO - user name is provided
+2020-08-17 17:26:20,007 - ebankingTest -INFO - Password is provided
+2020-08-17 17:26:33,638 - ebankingTest -INFO - Login passed
+2020-08-17 17:26:33,772 - ebankingTest -INFO - user name is provided
+2020-08-17 17:26:33,884 - ebankingTest -INFO - Password is provided
+2020-08-17 17:26:39,027 - ebankingTest -INFO - user name is provided
+2020-08-17 17:26:39,152 - ebankingTest -INFO - Password is provided
+2020-08-17 17:26:44,791 - ebankingTest -INFO - user name is provided
+2020-08-17 17:26:44,901 - ebankingTest -INFO - Password is provided
+2020-08-17 17:26:50,039 - ebankingTest -INFO - user name is provided
+2020-08-17 17:26:50,178 - ebankingTest -INFO - Password is provided
+2020-08-17 17:27:01,438 - ebankingTest -INFO - Login passed
+2020-08-17 17:28:46,739 - ebankingTest -INFO - Enter Username
+2020-08-17 17:28:46,881 - ebankingTest -INFO - Enter Password
+2020-08-17 17:28:48,738 - ebankingTest -INFO - Login test passed
+2020-08-17 17:28:56,846 - ebankingTest -INFO - user name is provided
+2020-08-17 17:28:57,008 - ebankingTest -INFO - Password is provided
+2020-08-17 17:29:09,671 - ebankingTest -INFO - Login passed
+2020-08-17 17:29:09,805 - ebankingTest -INFO - user name is provided
+2020-08-17 17:29:09,937 - ebankingTest -INFO - Password is provided
+2020-08-17 17:29:14,820 - ebankingTest -INFO - user name is provided
+2020-08-17 17:29:14,925 - ebankingTest -INFO - Password is provided
+2020-08-17 17:29:20,105 - ebankingTest -INFO - user name is provided
+2020-08-17 17:29:20,212 - ebankingTest -INFO - Password is provided
+2020-08-17 17:29:25,432 - ebankingTest -INFO - user name is provided
+2020-08-17 17:29:25,538 - ebankingTest -INFO - Password is provided
+2020-08-17 17:29:35,845 - ebankingTest -INFO - Login passed
+2020-08-17 17:35:26,604 - ebankingTest -INFO - Login test passed
+2020-08-17 17:37:39,423 - ebankingTest -INFO - User name is provided
+2020-08-17 17:37:39,600 - ebankingTest -INFO - Passsword is provided
+2020-08-17 17:42:14,674 - ebankingTest -INFO - User name is provided
+2020-08-17 17:42:14,813 - ebankingTest -INFO - Passsword is provided
+2020-08-17 17:45:30,707 - ebankingTest -INFO - User name is provided
+2020-08-17 17:45:30,857 - ebankingTest -INFO - Passsword is provided
+2020-08-17 19:11:30,060 - ebankingTest -INFO - providing customer details....
+2020-08-17 19:13:29,743 - ebankingTest -INFO - providing customer details....
+2020-08-17 19:13:40,723 - ebankingTest -INFO - validation started....
+2020-08-17 19:15:01,519 - ebankingTest -INFO - providing customer details....
+2020-08-17 19:15:12,467 - ebankingTest -INFO - validation started....
+2020-08-17 19:15:12,493 - ebankingTest -INFO - test case passed....
+2020-08-17 19:18:46,097 - ebankingTest -INFO - Enter Username
+2020-08-17 19:18:46,239 - ebankingTest -INFO - Enter Password
+2020-08-17 19:18:47,645 - ebankingTest -INFO - Login test passed
+2020-08-17 19:18:56,817 - ebankingTest -INFO - user name is provided
+2020-08-17 19:18:56,957 - ebankingTest -INFO - Password is provided
+2020-08-17 19:19:09,047 - ebankingTest -INFO - Login passed
+2020-08-17 19:19:09,224 - ebankingTest -INFO - user name is provided
+2020-08-17 19:19:09,345 - ebankingTest -INFO - Password is provided
+2020-08-17 19:19:14,179 - ebankingTest -INFO - user name is provided
+2020-08-17 19:19:14,288 - ebankingTest -INFO - Password is provided
+2020-08-17 19:19:19,243 - ebankingTest -INFO - user name is provided
+2020-08-17 19:19:19,352 - ebankingTest -INFO - Password is provided
+2020-08-17 19:19:25,099 - ebankingTest -INFO - user name is provided
+2020-08-17 19:19:25,243 - ebankingTest -INFO - Password is provided
+2020-08-17 19:19:34,792 - ebankingTest -INFO - Login passed
+2020-08-17 19:19:44,831 - ebankingTest -INFO - providing customer details....
+2020-08-17 19:19:55,688 - ebankingTest -INFO - validation started....
+2020-08-17 19:19:55,859 - ebankingTest -INFO - test case passed....
+2020-08-17 21:44:48,215 - ebankingTest -INFO - Enter Username
+2020-08-17 21:44:48,414 - ebankingTest -INFO - Enter Password
+2020-08-17 21:44:49,754 - ebankingTest -INFO - Login test passed
+2020-08-17 21:44:58,397 - ebankingTest -INFO - user name is provided
+2020-08-17 21:44:58,552 - ebankingTest -INFO - Password is provided
+2020-08-17 21:45:09,245 - ebankingTest -INFO - Login passed
+2020-08-17 21:45:09,386 - ebankingTest -INFO - user name is provided
+2020-08-17 21:45:09,541 - ebankingTest -INFO - Password is provided
+2020-08-17 21:45:14,624 - ebankingTest -INFO - user name is provided
+2020-08-17 21:45:14,730 - ebankingTest -INFO - Password is provided
+2020-08-17 21:45:19,840 - ebankingTest -INFO - user name is provided
+2020-08-17 21:45:19,943 - ebankingTest -INFO - Password is provided
+2020-08-17 21:45:24,936 - ebankingTest -INFO - user name is provided
+2020-08-17 21:45:25,086 - ebankingTest -INFO - Password is provided
+2020-08-17 21:45:35,397 - ebankingTest -INFO - Login passed
+2020-08-17 21:45:45,621 - ebankingTest -INFO - providing customer details....
+2020-08-17 21:45:56,718 - ebankingTest -INFO - validation started....
+2020-08-17 21:45:56,733 - ebankingTest -INFO - test case passed....
+2020-08-17 21:50:54,309 - ebankingTest -INFO - Enter Username
+2020-08-17 21:50:54,452 - ebankingTest -INFO - Enter Password
+2020-08-17 21:50:56,134 - ebankingTest -INFO - Login test passed
+2020-08-17 21:51:06,545 - ebankingTest -INFO - user name is provided
+2020-08-17 21:51:06,722 - ebankingTest -INFO - Password is provided
+2020-08-17 21:51:16,377 - ebankingTest -INFO - Login passed
+2020-08-17 21:51:16,681 - ebankingTest -INFO - user name is provided
+2020-08-17 21:51:16,952 - ebankingTest -INFO - Password is provided
+2020-08-17 21:51:22,482 - ebankingTest -INFO - user name is provided
+2020-08-17 21:51:22,715 - ebankingTest -INFO - Password is provided
+2020-08-17 21:51:28,717 - ebankingTest -INFO - user name is provided
+2020-08-17 21:51:28,934 - ebankingTest -INFO - Password is provided
+2020-08-17 21:51:34,667 - ebankingTest -INFO - user name is provided
+2020-08-17 21:51:34,919 - ebankingTest -INFO - Password is provided
+2020-08-17 21:51:45,548 - ebankingTest -INFO - Login passed
+2020-08-17 21:51:57,372 - ebankingTest -INFO - providing customer details....
+2020-08-17 21:52:13,631 - ebankingTest -INFO - validation started....
+2020-08-17 21:52:13,660 - ebankingTest -INFO - test case passed....
+2020-08-17 21:56:55,825 - ebankingTest -INFO - Enter Username
+2020-08-17 21:56:56,309 - ebankingTest -INFO - Enter Password
+2020-08-17 21:56:58,855 - ebankingTest -INFO - Login test passed
+2020-08-17 21:57:11,925 - ebankingTest -INFO - user name is provided
+2020-08-17 21:57:14,239 - ebankingTest -INFO - Password is provided
+2020-08-17 21:57:24,779 - ebankingTest -INFO - Login passed
+2020-08-17 21:57:25,058 - ebankingTest -INFO - user name is provided
+2020-08-17 21:57:25,294 - ebankingTest -INFO - Password is provided
+2020-08-17 21:57:30,696 - ebankingTest -INFO - user name is provided
+2020-08-17 21:57:30,958 - ebankingTest -INFO - Password is provided
+2020-08-17 21:57:36,040 - ebankingTest -INFO - user name is provided
+2020-08-17 21:57:36,272 - ebankingTest -INFO - Password is provided
+2020-08-17 21:57:41,899 - ebankingTest -INFO - user name is provided
+2020-08-17 21:57:42,204 - ebankingTest -INFO - Password is provided
+2020-08-17 21:57:52,994 - ebankingTest -INFO - Login passed
+2020-08-17 21:58:05,645 - ebankingTest -INFO - providing customer details....
+2020-08-17 21:58:21,210 - ebankingTest -INFO - validation started....
+2020-08-17 21:58:21,238 - ebankingTest -INFO - test case passed....
+2020-08-17 22:11:17,250 - ebankingTest -INFO - Enter Username
+2020-08-17 22:11:17,835 - ebankingTest -INFO - Enter Password
+2020-08-17 22:11:20,925 - ebankingTest -INFO - Login test passed
+2020-08-17 22:11:37,426 - ebankingTest -INFO - user name is provided
+2020-08-17 22:11:37,772 - ebankingTest -INFO - Password is provided
+2020-08-17 22:11:49,663 - ebankingTest -INFO - Login passed
+2020-08-17 22:11:49,983 - ebankingTest -INFO - user name is provided
+2020-08-17 22:11:50,198 - ebankingTest -INFO - Password is provided
+2020-08-17 22:11:55,388 - ebankingTest -INFO - user name is provided
+2020-08-17 22:11:55,585 - ebankingTest -INFO - Password is provided
+2020-08-17 22:12:00,929 - ebankingTest -INFO - user name is provided
+2020-08-17 22:12:01,170 - ebankingTest -INFO - Password is provided
+2020-08-17 22:12:06,465 - ebankingTest -INFO - user name is provided
+2020-08-17 22:12:06,680 - ebankingTest -INFO - Password is provided
+2020-08-17 22:12:17,069 - ebankingTest -INFO - Login passed
+2020-08-17 22:12:28,837 - ebankingTest -INFO - providing customer details....
+2020-08-17 22:12:44,968 - ebankingTest -INFO - validation started....
+2020-08-17 22:12:44,993 - ebankingTest -INFO - test case passed....
+2020-08-17 22:18:12,076 - ebankingTest -INFO - Enter Username
+2020-08-17 22:18:12,539 - ebankingTest -INFO - Enter Password
+2020-08-17 22:18:15,123 - ebankingTest -INFO - Login test passed
+2020-08-17 22:18:26,509 - ebankingTest -INFO - providing customer details....
+2020-08-17 22:18:40,723 - ebankingTest -INFO - validation started....
+2020-08-17 22:18:40,823 - ebankingTest -INFO - test case passed....
+2020-08-17 23:44:06,600 - ebankingTest -INFO - Enter Username
+2020-08-17 23:44:06,823 - ebankingTest -INFO - Enter Password
+2020-08-17 23:44:08,524 - ebankingTest -INFO - Login test passed
+2020-08-17 23:44:19,545 - ebankingTest -INFO - providing customer details....
+2020-08-17 23:44:33,210 - ebankingTest -INFO - validation started....
+2020-08-17 23:44:33,246 - ebankingTest -INFO - test case passed....
